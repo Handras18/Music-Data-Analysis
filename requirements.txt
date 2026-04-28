@@ -1,0 +1,7 @@
+pandas==2.x
+numpy==1.x
+scikit-learn==1.x
+plotly==5.x
+seaborn==0.x
+matplotlib==3.x
+jupyter==1.x
