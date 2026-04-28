@@ -46,7 +46,6 @@ data/
 *.csv
 *.xlsx
 *.parquet
-*.json
 *.db
 *.sqlite
 
